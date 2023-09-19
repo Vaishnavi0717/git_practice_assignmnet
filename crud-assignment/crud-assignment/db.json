@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "image": "https://picsum.photos/200",
+      "price": 888,
+      "brand": "campus",
+      "name": "xdjfn",
+      "category": "foot-wear",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "image": "https://picsum.photos/200",
+      "price": 6678,
+      "brand": "lenin",
+      "name": "bbxhjchi",
+      "category": "top-wear",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "image": "https://picsum.photos/200",
+      "price": 2000,
+      "brand": "campus",
+      "name": "cerulean",
+      "category": "foot-wear",
+      "gender": "kids",
+      "id": 4
+    },
+    {
+      "image": "https://picsum.photos/200",
+      "price": 5037,
+      "brand": "Nick",
+      "name": "shoe",
+      "category": "foot-wear",
+      "gender": "female",
+      "id": 5
+    },
+    {
+      "image": "https://picsum.photos/200",
+      "price": 397,
+      "brand": "roadstar",
+      "name": "sigma",
+      "category": "bottom-wear",
+      "gender": "male",
+      "id": 6
+    }
+  ]
+}
